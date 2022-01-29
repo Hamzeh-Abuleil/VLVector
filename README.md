@@ -11,5 +11,5 @@ It allows us to do most of the actions on the vector in constant time(O(1)).
   File that was made to test VLVector.
 
 *VLVector.cpp:
-  Actualy VLVector file.
+  Actual VLVector file.
   
